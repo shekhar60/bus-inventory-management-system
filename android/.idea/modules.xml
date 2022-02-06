@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1527540971/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1527540971/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/606517624/android.connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/606517624/android.connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1480398444/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1480398444/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2083880779/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/2083880779/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1720779873/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/1720779873/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826938855/android.sms_autofill.iml" filepath="$PROJECT_DIR$/.idea/modules/-826938855/android.sms_autofill.iml" />
+    </modules>
+  </component>
+</project>
